@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**ecarmu/ecarmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Arda. I am a student at Yasar University and an intern at Apaz Medikal
 
-Here are some ideas to get you started:
+I enjoy web programming and ML
+I can code with C, Java, JS, HTML, CSS, React, Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 
-- 📫 How to reach me: ardaharman2003@gmail.com
+
+I am looking forward to improve myself each day 
+
+
+
+- 🌱 I’m currently learning about ML and planning to become an ML engineer
+
+
+
 
 - ⚡ Fun fact: The day I was born is the same day that Turkey had won the Eurovision
--->
 
-aa
+
+- 📫 How to reach me: ardaharman2003@gmail.com
