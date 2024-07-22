@@ -18,7 +18,7 @@ Currently a 4th year student at Yaşar Üniversitesi and an intern at Apaz Medik
 
   
   
-  <div style="text-align: center; height: 60px;" align="center">
+  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; text-align: center; height: 60px;">
     <br><br><br> <!-- Add multiple line breaks for spacing -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
     <img width="12" />
@@ -39,6 +39,7 @@ Currently a 4th year student at Yaşar Üniversitesi and an intern at Apaz Medik
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  </div>
+</div>
+
   
 </div>
