@@ -1,3 +1,26 @@
+## Hi there 👋
+
+My name is Arda. 
+I am a student at Yasar University and an intern at Apaz Medikal
+
+I enjoy web programming and ML
+
+
+
+I am looking forward to improve myself each day 
+
+
+
+- 🌱 I’m currently learning about ML and planning to become an ML engineer
+
+
+
+
+- ⚡ Fun fact: The day I was born is the same day that Turkey had won the Eurovision
+
+
+- 📫 How to reach me: ardaharman2003@gmail.com
+
 <h2 align="left">Hi there👋! My name is Arda</h2>
 
 ###
@@ -38,9 +61,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/ecarmu/ecarmu/output/snake.svg" alt="Snake animation" />
-
-###
