@@ -6,7 +6,10 @@ Currently a student at Yaşar Üniversitesi and an intern at Apaz Medikal
 
 - ⚡ Fun fact: The day I was born is the same day that Turkey had won the Eurovision
 
+## Github Stats  
+<img src="https://github-readme-stats.vercel.app/api?username=ecarmu&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
+<br/>  
 
 ###
 
