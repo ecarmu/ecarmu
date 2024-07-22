@@ -21,14 +21,17 @@ I am looking forward to improve myself each day
 
 - 📫 How to reach me: ardaharman2003@gmail.com
 
-<div align="center" style="margin-top: 20%; margin-bottom: 5%;">
-  <a href="https://linkedin.com/in/arda-harman-804091156" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arda harman" height="30" width="40" />
+<div align="center" style="margin-top: 20%; margin-bottom: 5%; display: flex; align-items: center; gap: 10px;">
+  <a href="https://linkedin.com/in/arda-harman-804091156" target="blank" style="display: flex; align-items: center;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <span style="color: #0A66C2; font-size: 16px; margin-left: 8px;">LinkedIn</span>
   </a>
-  <a href="https://instagram.com/harman_arda_" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harman_arda_" height="30" width="40" />
+  <a href="https://instagram.com/harman_arda_" target="blank" style="display: flex; align-items: center;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <span style="color: #C13584; font-size: 16px; margin-left: 8px;">Instagram</span>
   </a>
 </div>
+
 
 
 
