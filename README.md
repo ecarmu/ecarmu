@@ -6,11 +6,6 @@ Currently a student at Yaşar Üniversitesi and an intern at Apaz Medikal
 
 - ⚡ Fun fact: The day I was born is the same day that Turkey had won the Eurovision
 
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=ecarmu&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
-<br/>  
-
 ###
 
 <div align="center">
@@ -42,3 +37,9 @@ Currently a student at Yaşar Üniversitesi and an intern at Apaz Medikal
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
+
+
+## Github Stats  
+<img src="https://github-readme-stats.vercel.app/api?username=ecarmu&show_icons=true&count_private=true&hide_border=true" align="left" />  
+
+<br/>  
