@@ -1,5 +1,5 @@
 
-  ## Hi there👋! My name is Arda
+  ## Hi there👋!       My name is Arda
   Currently a 4th year student at Yaşar Üniversitesi and an intern at Apaz Medikal
 
   - 👀 I like web programming as a hobby
