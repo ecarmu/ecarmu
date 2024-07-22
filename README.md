@@ -1,5 +1,5 @@
 <h2 align="left">Hi there👋! My name is Arda</h2>
-Currently a 4th student at *Yaşar Üniversitesi* and an intern at Apaz Medikal
+Currently a 4th student at <span>Yaşar Üniversitesi</span> and an intern at Apaz Medikal
 
 - 👀 I like web programming as a hobby
 - 🌱 I enjoy ML and currently learning it to become an ML engineer
@@ -43,15 +43,4 @@ Currently a 4th student at *Yaşar Üniversitesi* and an intern at Apaz Medikal
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ecarmu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ecarmu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-<br/>  
-
-
-
-
-
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=ecarmu&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />  
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecarmu&hide_border=true&layout=compact" align="left" />  
+</div> 
