@@ -1,12 +1,11 @@
-<div>
-  <h2 align="left">Hi there👋! My name is Arda</h2>
+
+  ## Hi there👋! My name is Arda
   Currently a 4th year student at Yaşar Üniversitesi and an intern at Apaz Medikal
 
   - 👀 I like web programming as a hobby
   - 🌱 I enjoy ML and currently learning it to become an ML engineer
 
   - ⚡ Fun fact: The day I was born is the same day that Turkey had won the Eurovision
-</div>
 
 <div align="center" style="margin-top: 185%; margin-bottom: 85%; height: 30px;"> 
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
