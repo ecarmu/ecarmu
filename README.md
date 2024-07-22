@@ -8,7 +8,7 @@
   - ⚡ Fun fact: The day I was born is the same day that Turkey had won the Eurovision
 </div>
 
-<div align="center" style="margin-top: 185%; margin-bottom: 85%; height: 30px;"> 
+<div align="center" style="margin-top: 185px; margin-bottom: 85px; height: 30px;"> 
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
