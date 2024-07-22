@@ -3,8 +3,7 @@
 My name is Arda. 
 I am a student at Yasar University and an intern at Apaz Medikal
 
-I enjoy web programming and ML.
-I can code with C, Java, JS, HTML, CSS, React, Python
+I enjoy web programming and ML
 
 
 
