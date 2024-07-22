@@ -1,5 +1,5 @@
 <h2 align="left">Hi there👋! My name is Arda</h2>
-Currently a 4th student at <span>Yaşar Üniversitesi</span> and an intern at Apaz Medikal
+Currently a 4th student at Yaşar Üniversitesi and an intern at Apaz Medikal
 
 - 👀 I like web programming as a hobby
 - 🌱 I enjoy ML and currently learning it to become an ML engineer
