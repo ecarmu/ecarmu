@@ -6,13 +6,7 @@ Currently a 4th year student at Yaşar Üniversitesi and an intern at Apaz Medik
 - ⚡ Fun fact: The day I was born is the same day that Turkey had won the Eurovision
 
 
-<div align="center">
-  <p>
-    <a href="https://linkedin.com/in/arda-harman-804091156" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
-  <a href="https://instagram.com/harman_arda_" target="blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /></a>
-  </p>
-  
-</div>
+
 
   
   
