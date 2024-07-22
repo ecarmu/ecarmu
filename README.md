@@ -48,48 +48,10 @@ Currently a 4th student at *Yaşar Üniversitesi* and an intern at Apaz Medikal
 <br/>  
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
 
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=ecarmu&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api?username=ecarmu&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />  
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecarmu&hide_border=true&layout=compact" align="right" /></div>  
-
-<br/>  
-
-
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecarmu&hide_border=true&layout=compact" align="left" />  
