@@ -78,7 +78,8 @@ I enjoy web programming and ML
       
       
 <h2 align="left">Hi there👋! My name is Arda</h2>
-Currently a student at Yaşar Üniversitesi and an intern at Apaz Medikal 
+Currently a student at Yaşar Üniversitesi and an intern at Apaz Medikal
+
 - 👀 I like web programming as a hobby
 - 🌱 I enjoy ML and currently learning it to become an ML engineer
 
