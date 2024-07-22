@@ -19,6 +19,7 @@ Currently a 4th year student at Yaşar Üniversitesi and an intern at Apaz Medik
   
   
   <div style="text-align: center; height: 60px;" align="center">
+    <br><br><br> <!-- Add multiple line breaks for spacing -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
