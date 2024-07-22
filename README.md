@@ -6,11 +6,6 @@ I am a student at Yasar University and an intern at Apaz Medikal
 I enjoy web programming and ML
 
 
-
-I am looking forward to improve myself each day 
-
-
-
 - 🌱 I’m currently learning about ML and planning to become an ML engineer
 
 
@@ -83,7 +78,7 @@ I am looking forward to improve myself each day
       
       
 <h2 align="left">Hi there👋! My name is Arda</h2>
-
+Currently a student at Yaşar Üniversitesi and an intern at Apaz Medikal 
 - 👀 I like web programming as a hobby
 - 🌱 I enjoy ML and currently learning it to become an ML engineer
 
