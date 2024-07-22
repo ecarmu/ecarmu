@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-My name is Arda. I am a student at Yasar University and an intern at Apaz Medikal
+My name is Arda. 
+I am a student at Yasar University and an intern at Apaz Medikal
 
 I enjoy web programming and ML
 I can code with C, Java, JS, HTML, CSS, React, Python
